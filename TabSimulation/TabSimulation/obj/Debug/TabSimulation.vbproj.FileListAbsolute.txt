@@ -1,0 +1,8 @@
+J:\CIS212\RobertPeckProject3\TabSimulation\TabSimulation\bin\TabSimulation.dll
+J:\CIS212\RobertPeckProject3\TabSimulation\TabSimulation\bin\TabSimulation.pdb
+J:\CIS212\RobertPeckProject3\TabSimulation\TabSimulation\bin\TabSimulation.xml
+J:\CIS212\RobertPeckProject3\TabSimulation\TabSimulation\obj\Debug\TabSimulation.vbproj.GenerateResource.Cache
+J:\CIS212\RobertPeckProject3\TabSimulation\TabSimulation\obj\Debug\TabSimulation.dll
+J:\CIS212\RobertPeckProject3\TabSimulation\TabSimulation\obj\Debug\TabSimulation.xml
+J:\CIS212\RobertPeckProject3\TabSimulation\TabSimulation\obj\Debug\TabSimulation.pdb
+J:\CIS212\RobertPeckProject3\TabSimulation\TabSimulation\obj\Debug\Resources.resources

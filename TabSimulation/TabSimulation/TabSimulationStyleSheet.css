@@ -1,0 +1,36 @@
+﻿body {
+    font-family:'Times New Roman';
+    font-size: 1em;
+    font-weight: 600;
+    background-color: yellow;
+}
+
+h1 {
+    font-family:Gulim;
+    font-size: 2em;
+    letter-spacing: .3em;
+    border-bottom: solid .1em;
+}
+
+#TabPanel {
+    background-color:black;
+    width:612px;
+}
+
+#CalendarPanel {
+    background-color:violet;
+    Height:850px; 
+    Width:1900px;
+}
+
+#TablePanel {
+    background-color:green;
+    Height:850px; 
+    Width:1900px;
+}
+
+#ImagePanel {
+    background-color:blue;
+    Height:850px; 
+    Width:1900px;
+}
